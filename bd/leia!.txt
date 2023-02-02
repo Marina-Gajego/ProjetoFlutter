@@ -1,0 +1,2 @@
+rodar o seguinte comando na pasta bd 
+json_rest_server run
